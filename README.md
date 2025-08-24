@@ -3,4 +3,4 @@
 
 Web Scraping para tarjetas gráficas:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/Churtado82/Portfolio/blob/main/Web_Scrapping_Graphics_Cards_v0_4_1.ipynb)
+https://colab.research.google.com/drive/1LplufKt3FWyHaeNDDt4uUiLelAlNdunR?usp=sharing)
