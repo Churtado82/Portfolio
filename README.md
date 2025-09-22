@@ -1,5 +1,5 @@
 # Portfolio
-"Data analyst passionate about technology, video games, and science. This portfolio showcases projects in data cleaning and analysis, and will grow to include web scraping, EDA, and predictive modeling. Exploring data to uncover insights and tell meaningful stories."
+"Data Scientist in training, passionate about technology, videogames, and science. This portfolio showcases projects in data analysis and data science, and will grow to include web scraping, EDA, and predictive modeling. Exploring data to uncover insights and tell meaningful stories."
 
 Web Scraping for Performance/Price of Graphics Cards in Chile
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
